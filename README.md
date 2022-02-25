@@ -2,7 +2,7 @@
 # Hi there! I'm Nestor Solera 👋
 
     
-<!--    <img src="https://avatars.githubusercontent.com/u/59302496?v=4" alt="Nestor J Solera LinkedIn Profile" width="220px" align="right">     
+<!--    <img src="https://avatars.githubusercontent.com/u/59302496?v=4" alt="Nestor J Solera LinkedIn Profile" width="220px" align="left">     
   -->
 
 ## Full Stack Developer 
