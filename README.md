@@ -2,8 +2,8 @@
 # Hi there! I'm Nestor Solera 👋
 
     
-<!--    <img src="https://avatars.githubusercontent.com/u/59302496?v=4" alt="Nestor J Solera LinkedIn Profile" width="220px" align="left">     
-  -->
+   <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Cesar Contreras LinkedIn Profile" width="440px" align="right">     
+ 
 
 ## Full Stack Developer 
 <p width='40%' height="100%"align="center"> 
