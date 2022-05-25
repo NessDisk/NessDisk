@@ -68,7 +68,7 @@
    <a align='center' href="https://github.com/NessDisk/Google-clone">
       <img src="https://github.com/NessDisk/NessDisk/blob/main/google%20Clone.PNG?raw=true" alt="Henry paises Repo"   width="50%">  
     </a>
-    <h6> deploy </h6>
+    <h6> <a href="https://vercel.com/nessdisk/google-clone"> Deploy </a> </h6>
 </p>
 
 #### whatzzap clone
@@ -78,6 +78,7 @@
    <a align='center' href="https://github.com/NessDisk/WhatsApp-clone">
       <img src="https://github.com/NessDisk/NessDisk/blob/main/clon%20de%20whatzaap.PNG?raw=true" alt="Henry paises Repo"   width="50%">  
     </a>
+    <h6> <a href="https://whats-app-clone-cyan.vercel.app/"> Deploy </a> </h6>
 </p>
 
 <!--
