@@ -51,7 +51,7 @@
   ******
 ### - :computer: Projects
 
-#### Henry Comics
+#### Henry PI Countrys
 
   - Henry Comics es una tienda online de comics desarrollada en React Hooks con Redux en front-end y Express, PostgreSQL y Sequelize en el back-end.
 <p align='center'>     
@@ -61,7 +61,23 @@
 </p>
 
 
+####  Google clone
 
+  - Henry Comics es una tienda online de comics desarrollada en React Hooks con Redux en front-end y Express, PostgreSQL y Sequelize en el back-end.
+<p align='center'>     
+   <a align='center' href="https://github.com/NessDisk/PI-Countries-main">
+      <img src="https://github.com/NessDisk/NessDisk/blob/main/api-paises.PNG?raw=true" alt="Henry paises Repo"   width="50%">  
+    </a>
+</p>
+
+#### whatzzap clone
+
+  - Henry Comics es una tienda online de comics desarrollada en React Hooks con Redux en front-end y Express, PostgreSQL y Sequelize en el back-end.
+<p align='center'>     
+   <a align='center' href="https://github.com/NessDisk/PI-Countries-main">
+      <img src="https://github.com/NessDisk/NessDisk/blob/main/api-paises.PNG?raw=true" alt="Henry paises Repo"   width="50%">  
+    </a>
+</p>
 
 <!--
 **NessDisk/NessDisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
