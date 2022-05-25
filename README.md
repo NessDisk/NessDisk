@@ -65,8 +65,8 @@
 
   - Henry Comics es una tienda online de comics desarrollada en React Hooks con Redux en front-end y Express, PostgreSQL y Sequelize en el back-end.
 <p align='center'>     
-   <a align='center' href="https://github.com/NessDisk/PI-Countries-main">
-      <img src="https://github.com/NessDisk/NessDisk/blob/main/api-paises.PNG?raw=true" alt="Henry paises Repo"   width="50%">  
+   <a align='center' href="https://github.com/NessDisk/Google-clone">
+      <img src="https://github.com/NessDisk/NessDisk/blob/main/google%20Clone.PNG?raw=true" alt="Henry paises Repo"   width="50%">  
     </a>
 </p>
 
