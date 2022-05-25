@@ -68,6 +68,7 @@
    <a align='center' href="https://github.com/NessDisk/Google-clone">
       <img src="https://github.com/NessDisk/NessDisk/blob/main/google%20Clone.PNG?raw=true" alt="Henry paises Repo"   width="50%">  
     </a>
+    <h6> deploy </h6>
 </p>
 
 #### whatzzap clone
