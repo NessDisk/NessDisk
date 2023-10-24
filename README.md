@@ -50,7 +50,7 @@
          <img alt="Portafolio" src="https://raw.githubusercontent.com/NessDisk/NessDisk/main/suitcase.png" height="30" width="30"/>
       </a> Portafolio <br/>  
    </p>
-   <p><label>ness.cero1@gmail.com</label></p>
+   <!-- <p><label>ness.cero1@gmail.com</label></p> -->
    
    
   ******
