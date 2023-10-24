@@ -16,6 +16,7 @@
       <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript" width="40" height="40"/> </a>
    <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react"                 width="40" height="40"/> </a>  
     <a href="https://es.redux.js.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="40" height="40"/> 
+     <a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="mocha" width="40" height="40"/> </a>
     </a>
    
  </p>
@@ -31,6 +32,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="mocha" width="40" height="40"/> </a>
+  
  </p>
   
   
@@ -40,13 +42,13 @@
    <p>
       <a href="https://www.linkedin.com/in/nestor-solera-091a751a9/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Nestor Solera LinkedIn Profile" height="30" width="30">
-      </a> <br/>   
+      </a> Linkedin <br/>   
       <a align='right' href="mailto:ness.cero1@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
-      </a>  
-       <a align='right' href="mailto:ness.cero1@gmail.com">
-         <img alt="Portafolio" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
-      </a>  
+      </a> Gmail <br/>  
+       <a align='right' href="https://nestor-solera.vercel.app/">
+         <img alt="Portafolio" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAB7CAMAAABjGQ9NAAAAllBMVEX////hehe8YRWIRg67XxD48Om/aizgcwDtt4zljUPhdw2/aBz18OuHRAWQUy749PCUWzeVXjXbdxaQSw/UchWAQQ7CZRWDOwDPbha6WwCqfmPTv7KSXTh/PgD559fifyL00bnwvpiaURDyyq6rWxKzXBS2TADhu6Lt1MPPjWDm2tKgb07l1cntsYPnl1TppXDonWHTlm42LqhOAAAB8ElEQVRoge3abVeCMACGYQgNQxfG67DCIrXUUvv/f675EsdgQ4Zsnuq5v3K2a2MePzgNAyGEENKZO6jOVSYvlsPb6obLd0U0icmpYrJQYo9i63TxSIl9R2rY5O7P2oKj1mGTIT+i3o7vXX73sXLbF31/uL5ymwwEjwcENuyWengMWZbwc25tHz8+NJs8/VjdVBTsa/ycteql/HWvbdupytzX+Pk2215z3pu7sk0d2asy3tNDM7xXpLtjTbRpjrsF+0nXttnGnwr2s0b7+VLHzTlw2LBhw4YNGzZs2LBhw4YNGzZs2LAvZ3uXsmlmhVZGz7dfpO0o3F3GhZG0/VKwU+f0oB8F+RVoIDnSKf1+v5Hc+CQ80OFEbqC9KdJGOpbauefn+/alPnHOmHNtkZoyeFPbMbk3Jq7MwTW1A8E1U78TRRGlQeCdnk3O9rwgoJTN3unzaWZffbdbBGWLEM1bx2ajmbgl83nr2MeL4L6KCjvfZFSeTsoureKwiLK92yRfPNv+sQxKj+wtWXPk+TZremRP6w9rxb46siVG/X47y+1Muz3NbYnjbsnOcRm6LZu9dt/yM7khrdkNgg0bNmyt9jxRbiefAjudqd54Z8b/LxXrNUk6KkuSVxFtGG/za5XN38Q0y+2qS92/0xFCCP3XvgC2GGFni3oXXgAAAABJRU5ErkJggg==" height="30" width="30"/>
+      </a> Portafolio <br/>  
    </p>
    <p><label>ness.cero1@gmail.com</label></p>
    
@@ -56,7 +58,7 @@
 
 #### Henry PG E-comerce
 
-  - Henry Comics es una tienda online de comics desarrollada en React Hooks con Redux en front-end y Express, PostgreSQL y Sequelize en el back-end.
+  - Final group project of an E-commerce of technological products. Created using React.  I performed Front-end functions creating the registration views, user profile and product details. 
 <p align='center'>     
    <a align='center' href="https://pg-henry-grupo6.vercel.app/">
       <img src="https://raw.githubusercontent.com/NessDisk/NessDisk/main/e-comerce.PNG" alt="Henry E-comerce"   width="50%">  
@@ -85,7 +87,7 @@
 </p>
 
 #### Mercado-libre
-  - WhatsApp clone project designed in react.js, Firebase. It creates persistent chat rooms and has a login that authenticates the user's Google account.
+  - Search engine created in React.js simulating a shopping web search engine. Responsive design Pc and mobile..
 <p align='center'>     
    <a align='center' href="https://github.com/NessDisk/WhatsApp-clone">
       <img src="https://raw.githubusercontent.com/NessDisk/NessDisk/main/Mercado-Libre.PNG" alt="Henry paises Repo"   width="50%">  
