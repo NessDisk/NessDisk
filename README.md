@@ -40,9 +40,12 @@
    <p>
       <a href="https://www.linkedin.com/in/nestor-solera-091a751a9/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Nestor Solera LinkedIn Profile" height="30" width="30">
-      </a>   
+      </a> <br/>   
       <a align='right' href="mailto:ness.cero1@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
+      </a>  
+       <a align='right' href="mailto:ness.cero1@gmail.com">
+         <img alt="Portafolio" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
       </a>  
    </p>
    <p><label>ness.cero1@gmail.com</label></p>
@@ -51,19 +54,19 @@
   ******
 ### - :computer: Projects
 
-#### Henry PI Countrys
+#### Henry PG E-comerce
 
   - Henry Comics es una tienda online de comics desarrollada en React Hooks con Redux en front-end y Express, PostgreSQL y Sequelize en el back-end.
 <p align='center'>     
-   <a align='center' href="https://github.com/NessDisk/PI-Countries-main">
-      <img src="https://github.com/NessDisk/NessDisk/blob/main/api-paises.PNG?raw=true" alt="Henry paises Repo"   width="50%">  
+   <a align='center' href="https://pg-henry-grupo6.vercel.app/">
+      <img src="https://raw.githubusercontent.com/NessDisk/NessDisk/main/e-comerce.PNG" alt="Henry E-comerce"   width="50%">  
     </a>
 </p>
 
 
 ####  Google clone
 
-  - Henry Comics es una tienda online de comics desarrollada en React Hooks con Redux en front-end y Express, PostgreSQL y Sequelize en el back-end.
+  - Clone project of the well known Google search engine.  Created in react.js and integrating Firebase. 
 <p align='center'>     
    <a align='center' href="https://github.com/NessDisk/Google-clone">
       <img src="https://github.com/NessDisk/NessDisk/blob/main/google%20Clone.PNG?raw=true" alt="Henry paises Repo"   width="50%">  
@@ -73,13 +76,24 @@
 
 #### whatzzap clone
 
-  - Henry Comics es una tienda online de comics desarrollada en React Hooks con Redux en front-end y Express, PostgreSQL y Sequelize en el back-end.
+  - WhatsApp clone project designed in react.js, Firebase. It creates persistent chat rooms and has a login that authenticates the user's Google account.
 <p align='center'>     
    <a align='center' href="https://github.com/NessDisk/WhatsApp-clone">
       <img src="https://github.com/NessDisk/NessDisk/blob/main/clon%20de%20whatzaap.PNG?raw=true" alt="Henry paises Repo"   width="50%">  
     </a>
     <h6> <a href="https://whats-app-clone-cyan.vercel.app/"> Deploy </a> </h6>
 </p>
+
+#### Mercado-libre
+  - WhatsApp clone project designed in react.js, Firebase. It creates persistent chat rooms and has a login that authenticates the user's Google account.
+<p align='center'>     
+   <a align='center' href="https://github.com/NessDisk/WhatsApp-clone">
+      <img src="https://raw.githubusercontent.com/NessDisk/NessDisk/main/Mercado-Libre.PNG" alt="Henry paises Repo"   width="50%">  
+    </a>
+    <h6> <a href="https://mercadolibre-nessdisk.vercel.app/"> Deploy </a> </h6>
+</p>
+
+
 
 <!--
 **NessDisk/NessDisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
