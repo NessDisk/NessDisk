@@ -4,7 +4,7 @@
     
    <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Cesar Contreras LinkedIn Profile" width="440px" align="right">     
  
-
+<br/>
 ## Full Stack Developer 
 <p width='40%' height="100%"align="center"> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5"             width="40" height="40"/> </a>   
